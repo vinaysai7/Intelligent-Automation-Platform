@@ -179,7 +179,7 @@ Intelligent-Automation-Platform/
 ├── database/
 │   └── ...
 │
-├── tests/
+├── testing/
 │   └── ...
 │
 ├── dashboard/
@@ -187,14 +187,13 @@ Intelligent-Automation-Platform/
 │   │   └── page.tsx
 │   └── ...
 │
-├── venv/
 └── README.md
 
 Local Setup
 
 1. Clone the repository
 
-git clone https://github.com/saibandela/Intelligent-Automation-Platform.git
+git clone https://github.com/vinaysai7/Intelligent-Automation-Platform.git
 cd Intelligent-Automation-Platform
 
 If the repository name is different on GitHub, replace the repository URL with your actual repository URL.
